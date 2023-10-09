@@ -4,4 +4,4 @@
 
  - Foi usado o VisualG para fazer todas as aulas.
 
- - No PDF "Anotações Geral" tem todas minhas anotações feitas durantes as aulas. 
+ - No PDF "Anotações Geral" tem todas minhas anotações feitas durante as aulas. 
