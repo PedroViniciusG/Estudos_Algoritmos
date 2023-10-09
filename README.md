@@ -2,4 +2,6 @@
 
  Meus estudos de Algoritmos feito no site do Curso em Video.
 
- No PDF "Anotações Geral" tem todas minhas anotações feitas durantes as aulas. 
+ - Foi usado o VisualG para fazer todas as aulas.
+
+ - No PDF "Anotações Geral" tem todas minhas anotações feitas durantes as aulas. 
